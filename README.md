@@ -30,4 +30,4 @@ Nenhuma biblioteca externa adicional (via `pip`) é estritamente necessária par
 
 1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+   git clone [[https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)](https://github.com/allysonsilvadev/Projeto-A3.py/tree/main)
