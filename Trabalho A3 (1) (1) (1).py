@@ -150,8 +150,6 @@ def estado_do_pedido(pedido):
 
 
 def precisa_amarelo(proximo_estado):
-    if proximo_estado == "EMERGENCIA":
-        return None
 
     if estado == "VIA A VERDE" and proximo_estado != "VIA A VERDE":
         return "AMARELO A"
